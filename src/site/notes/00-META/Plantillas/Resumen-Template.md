@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/plantillas/resumen-template/"}
+{"dg-publish":true,"permalink":"/00-meta/plantillas/resumen-template/","hide":true}
 ---
 
 <%*
