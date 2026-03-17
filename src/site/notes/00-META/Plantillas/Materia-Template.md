@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/plantillas/materia-template/"}
+{"dg-publish":true,"permalink":"/00-meta/plantillas/materia-template/","hide":true}
 ---
 
 <%*
