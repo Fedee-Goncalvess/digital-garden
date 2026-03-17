@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/i-and-c-sensores-de-deformacion/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/i-and-c-sensores-de-deformacion/","created":"2026-03-17T15:58:35.366-03:00","updated":"2026-03-17T19:02:15.785-03:00"}
 ---
 
 # Funcionamiento
+## Resistencia proporcional a deformación
+
 > [!info] Resistencia de un cable
-> $R=\frac{\rho  l}{A}$
+>    $$R=\frac{\rho  l}{A}$$
 > ---
-> $\rho$: Resistividad material
-> $l$: Largo
-> $A$: Sección transversal
+>  $\rho$: Resistividad material
+>  $l$: Largo
+>  $A$: Sección transversal
 
 ![image-14.png](/img/user/3-Resources/Archivos/image-14.png)
 Tenemos un cable con longiud $L$ y área $A$, y cierta resistividad material $\rho$
@@ -105,3 +107,24 @@ R=R_{0}(1+x)
 $$
 con $R_0$ la resistencia en reposo y $x=K\epsilon$
 
+---
+
+## Factor de galga
+
+
+> [!info] Gage Factor
+>   $$G_{f} = K = \frac{\Delta R/R_{0}}{\Delta L/L_{0}}$$
+> ---
+>  Siendo $G_f$ el factor de galga
+>  - $R$ : Resistencia nominal
+>  - $L$ : Longitud nominal
+
+---
+## Conexionado
+Hay un problema en el conexionado con el puente de wheatstone al momento de tener una galga que tiene tanto, deformación, como cambio de temperatura. Es decir una galga va a cambiar su resistencia debido a la propia deformación, pero también puede cambiar debido a un cambio de temperatura. 
+Para compensar el problema de temperatura, se hace uso de un conexionado particular con el puente de wheatstone. 
+
+### Puente Simple
+![image-18.png](/img/user/3-Resources/Archivos/image-18.png)
+Si utilizamos este conexionado vemos que podemos compensar la variación de temperatura:
+![image-19.png\|512](/img/user/3-Resources/Archivos/image-19.png)

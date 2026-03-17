@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/sistema-en-i-and-c/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/sistema-en-i-and-c/","created":"2026-03-05T13:10:15.090-03:00","updated":"2026-03-17T17:29:49.567-03:00"}
 ---
 
 # Que es un sistema

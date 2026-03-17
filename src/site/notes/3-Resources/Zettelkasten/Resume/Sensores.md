@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/sensores/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/sensores/","created":"2026-03-07T22:16:17.027-03:00","updated":"2026-03-17T17:29:35.825-03:00"}
 ---
 
 # Sistemas de Medida

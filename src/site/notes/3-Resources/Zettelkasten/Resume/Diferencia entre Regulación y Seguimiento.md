@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/diferencia-entre-regulacion-y-seguimiento/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/diferencia-entre-regulacion-y-seguimiento/","created":"2026-03-05T13:03:09.806-03:00","updated":"2026-03-17T17:29:28.765-03:00"}
 ---
 
 # Diferencia entre regulación y seguimiento

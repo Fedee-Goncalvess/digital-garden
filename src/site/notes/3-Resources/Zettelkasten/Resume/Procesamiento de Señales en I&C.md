@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/procesamiento-de-senales-en-i-and-c/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/procesamiento-de-senales-en-i-and-c/","created":"2026-03-05T13:08:33.841-03:00","updated":"2026-03-17T17:29:56.889-03:00"}
 ---
 
 # Procesamiento de señales

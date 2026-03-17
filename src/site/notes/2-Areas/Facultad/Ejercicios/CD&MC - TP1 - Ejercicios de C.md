@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-ejercicios-de-c/"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-ejercicios-de-c/","created":"2026-03-16T18:49:44.553-03:00","updated":"2026-03-17T17:27:54.385-03:00"}
 ---
 
 

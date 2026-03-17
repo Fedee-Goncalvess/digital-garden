@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/aspectos-legales-de-ingenieria/"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/aspectos-legales-de-ingenieria/","created":"2026-02-27T19:18:15.107-03:00","updated":"2026-03-17T17:26:23.215-03:00"}
 ---
 
 Se estudia una semana antes corta

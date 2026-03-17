@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/sistemas-embebidos-cd-and-mc/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/sistemas-embebidos-cd-and-mc/","created":"2026-03-04T19:53:45.702-03:00","updated":"2026-03-17T17:27:07.896-03:00"}
 ---
 
 # Sistemas Embebidos

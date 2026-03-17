@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/diferencia-entre-monitoreo-y-control/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/diferencia-entre-monitoreo-y-control/","created":"2026-03-05T13:05:33.220-03:00","updated":"2026-03-17T17:29:20.640-03:00"}
 ---
 
 # Diferencia entre monitoreo y control

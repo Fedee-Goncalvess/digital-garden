@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-03-17T17:26:05.259-03:00"}
 ---
 
 Prof. José Juarez 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-03-17T17:26:11.741-03:00"}
 ---
 
 Descripción

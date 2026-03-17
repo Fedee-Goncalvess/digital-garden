@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/bases-de-datos/"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/bases-de-datos/","created":"2026-02-27T19:02:00.315-03:00","updated":"2026-03-17T17:26:17.412-03:00"}
 ---
 
 Diseñar y manipular bases de datos con seguridad e integridad.

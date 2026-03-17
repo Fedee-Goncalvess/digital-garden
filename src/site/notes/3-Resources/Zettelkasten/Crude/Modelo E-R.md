@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/crude/modelo-e-r/"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/crude/modelo-e-r/","created":"2026-03-03T13:38:21.325-03:00","updated":"2026-03-17T17:26:38.884-03:00"}
 ---
 
 Es un modelo conceptual que se utiliza para describir una base de datos sin definir aún que base de datos. Una representación abstracta del problema, e independiente de cualquier motor de base de datos. Llamado Modelo Entidad-Relación

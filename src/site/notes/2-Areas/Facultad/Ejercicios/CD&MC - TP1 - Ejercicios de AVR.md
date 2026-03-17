@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-ejercicios-de-avr/"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-ejercicios-de-avr/","created":"2026-03-16T18:50:05.022-03:00","updated":"2026-03-17T17:27:42.685-03:00"}
 ---
 
 
