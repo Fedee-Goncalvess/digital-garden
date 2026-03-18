@@ -1,19 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-03-18T10:08:21.057-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-03-18T14:11:46.985-03:00"}
 ---
 
 Prof. José Juarez 
 ---
 # Seguimiento
 ### Estado
-- [x] Instalar Microchip
-- [ ] Instalar Proteus
 - [ ] Enlazar Git con Joaco
-- [ ] Pasar apuntes de C en obsidian
-	- [ ] Headers
-	- [ ] Punteros
-	- [ ] Tipos de datos
-- [ ] Terminar práctica 1 (tiempo hasta 30 de marzo)
+- [ ] Resumir clase 3, y 4.
+- [ ] Práctica 1
+	- [ ] Cuestionario C
+		- [ ] Volatil, Const, etc.
+		- [ ] Describir operadores logicos
+		- [ ] Diferencia entre variable local y global
+		- [ ] que es un prototipo de funcion
+		- [ ] repasar punteros y arrays
+		- [ ] Campos de bits
+	- [ ] Cuestionario AVR
+	- [ ] Ejercicios C
+		- [ ] Hacer libreria y procedimiento de las funciones
+		- [ ] Ultimo inciso
+	- [ ] Ejercicios AVR
+		- [ ] Instalar Proteus y hacer ejercicio de proteus
  
 ### Clases sin procesar 
 ![[Circuitos digitales y Microcontroladores-Clases sin procesar-BASES.base]]
@@ -58,7 +66,7 @@ Estudio, diseño e implementación de sistemas embebidos con microcontroladores.
 - Dos instancias de recuperación
 
 ## Teórico-Práctico
-- [ ] **1 de julio** - Teorico Practica
+- [ ] **1 de julio** - Teórico Practica
 - [ ] **15 de julio** - Primer recuperatorio
 - [ ] **5 de agosto** - Segundo recuperatorio
 
