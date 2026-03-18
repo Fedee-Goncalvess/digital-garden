@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-dashboard/digital-garden/","tags":["gardenEntry"],"created":"2026-03-17T17:23:39.625-03:00","updated":"2026-03-18T15:19:23.586-03:00"}
+{"dg-publish":true,"permalink":"/0-dashboard/digital-garden/","tags":["gardenEntry"],"created":"2026-03-17T17:23:39.625-03:00","updated":"2026-03-18T15:20:25.911-03:00"}
 ---
 
 # Materias
@@ -9,5 +9,3 @@
 [[2-Areas/Facultad/Materias/Bases de Datos\|Bases de Datos]]
 [[2-Areas/Facultad/Materias/Concurrencia y Paralelismo\|Concurrencia y Paralelismo]]
 [[2-Areas/Facultad/Materias/Aspectos Legales de Ingeniería\|Aspectos Legales de Ingeniería]]
-[[Apuntes de Fede\|Apuntes de Fede]]
-Prueba
