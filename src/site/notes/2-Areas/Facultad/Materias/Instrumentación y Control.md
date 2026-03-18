@@ -1,35 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-18T13:31:43.888-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-18T14:39:55.659-03:00"}
 ---
 
-
-# Seguimiento
-### Dudas
-- El fondo de escala entonces es la diferencia del valor medido más grande  y del valor medido más pequeño? es decir, un alcance pero en vez del eje x en el eje y
-	- ***El fondo de escala se lo llama a el valor más alto del rango, es decir, sobre el eje x***
-- Error de linealidad en las filminas hablan de desviación máxima y utilizan el eje x. A mí lo que me interesa en realidad es, dado un X, la diferencia que hubo entre el valor medido de ese X y el valor real de ese X. Eso es una diferencia representativa en el eje Y. Por que utilizo desviación sobre el eje x?
-	- ***Se utiliza el eje x para la desviación máxima, un ejemplo claro es que, si yo mido en el valor de x=10, y me da un resultado de medida, si conozco esa desviación máxima como h=5, se interpreta como "Yo mido x=10, pero dada la desviación, en realidad este resultado medido se trata de x=15" y con esto se puede calibrar los resultados medidos.***
-- El cálculo de error con referencia a fondo de escala entonces como es?
-- 
-### Estado
-- [ ] Hacer hasta el ejercicio 6 de la práctica
-- [ ] Mirar videos de teoría del Moodle
-
-### Clases sin procesar
-![[Instrumentación y Control-Clases sin procesar-BASES.base]]
-### Trabajos Prácticos
-- [ ] [TP n° 1](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP1_v0.22.pdf) 
-	- [x] Ejercicios 1-4 para Lunes 9 de marzo
-	- [x] Ejercicios 5-6 para Miércoles 11 de marzo
-	- [ ] Ejercicios 7-11 para Lunes 16 de marzo
-	- [ ] Ejercicios 12-17 para Miércoles 18 de marzo
-- [ ] [TP n° 2](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP2_v0.22.pdf)
-- [ ] [TP n° 3](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP3_v0.22.pdf)
-- [ ] [TP n° 4](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP4_v0.22.pdf)
-- [ ] [TP n° 5](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP5_v0.23.pdf)
-- [ ] [TP n° 6](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP6_v0.22.pdf)
-- [ ] [TP n° 7](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP7_v0.22.pdf)
-- [ ] [TP n° 8](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP8_v0.22.pdf)
 # Información General
 ## Links
 - [Cátedras](https://www1.ing.unlp.edu.ar/catedras/E0304/)
@@ -52,6 +24,19 @@ Dos módulos con parciales, recuperatorios, y un flotante.
 - Laboratorios obligatorios
 - Defensas orales
 - Trabajos prácticos de simulación
+### Trabajos Prácticos
+- [ ] [TP n° 1](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP1_v0.22.pdf) 
+	- [x] Ejercicios 1-4 para Lunes 9 de marzo
+	- [x] Ejercicios 5-6 para Miércoles 11 de marzo
+	- [ ] Ejercicios 7-11 para Lunes 16 de marzo
+	- [ ] Ejercicios 12-17 para Miércoles 18 de marzo
+- [ ] [TP n° 2](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP2_v0.22.pdf)
+- [ ] [TP n° 3](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP3_v0.22.pdf)
+- [ ] [TP n° 4](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP4_v0.22.pdf)
+- [ ] [TP n° 5](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP5_v0.23.pdf)
+- [ ] [TP n° 6](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP6_v0.22.pdf)
+- [ ] [TP n° 7](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP7_v0.22.pdf)
+- [ ] [TP n° 8](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP8_v0.22.pdf)
 
 ---
 # Contenido

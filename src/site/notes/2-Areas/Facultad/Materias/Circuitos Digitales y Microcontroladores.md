@@ -1,44 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-03-18T14:11:46.985-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-03-18T14:39:05.001-03:00"}
 ---
 
 Prof. José Juarez 
 ---
-# Seguimiento
-### Estado
-- [ ] Enlazar Git con Joaco
-- [ ] Resumir clase 3, y 4.
-- [ ] Práctica 1
-	- [ ] Cuestionario C
-		- [ ] Volatil, Const, etc.
-		- [ ] Describir operadores logicos
-		- [ ] Diferencia entre variable local y global
-		- [ ] que es un prototipo de funcion
-		- [ ] repasar punteros y arrays
-		- [ ] Campos de bits
-	- [ ] Cuestionario AVR
-	- [ ] Ejercicios C
-		- [ ] Hacer libreria y procedimiento de las funciones
-		- [ ] Ultimo inciso
-	- [ ] Ejercicios AVR
-		- [ ] Instalar Proteus y hacer ejercicio de proteus
- 
-### Clases sin procesar 
-![[Circuitos digitales y Microcontroladores-Clases sin procesar-BASES.base]]
-### Trabajos Prácticos
-- [TP1](/img/user/3-Resources/Archivos/PDFs/Facultad/CD&MC-TP1.pdf)
-- TP2
-- TP3
-- TP4
-
-- [ ] **6 de abril** - Evaluación y entrega TP1
-- [ ] **11 de mayo** - Evaluación y entrega TP2
-- [ ] **22 de junio** - Evaluación y entrega TP3
-- [ ] **13 de julio** - Evaluación y entrega TP4
-
-
-
-
 # Información General
 ## Objetivo
 Estudio, diseño e implementación de sistemas embebidos con microcontroladores. Solución de problemas en tiempo real, considerando interconexión con periféricos.
@@ -60,7 +25,15 @@ Estudio, diseño e implementación de sistemas embebidos con microcontroladores.
 - Cada uno con un ejercicio entregable grupal
 - Aproximadamente 1 mes por cada entregable
 - Grupos de 2 alumnos
-
+#### Trabajos Prácticos
+- [TP1](/img/user/3-Resources/Archivos/PDFs/Facultad/CD&MC-TP1.pdf)
+- TP2
+- TP3
+- TP4
+- [ ] **6 de abril** - Evaluación y entrega TP1
+- [ ] **11 de mayo** - Evaluación y entrega TP2
+- [ ] **22 de junio** - Evaluación y entrega TP3
+- [ ] **13 de julio** - Evaluación y entrega TP4
 ## Promoción
 - Evaluación Teórico-Práctica con nota mayor o igual a 6
 - Dos instancias de recuperación

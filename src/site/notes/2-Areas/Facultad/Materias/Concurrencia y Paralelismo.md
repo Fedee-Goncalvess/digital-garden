@@ -1,20 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-03-17T17:26:11.741-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-03-18T14:35:27.541-03:00"}
 ---
 
 Descripción
 ---
-# Seguimiento
-### Estado
-- [ ] Ver videos y tomar apuntes
-### Clases sin procesar
-![[Concurrencia y Paralelismo-Clases sin procesar-BASES.base]]
-### Trabajos Prácticos
-- [ ] TP n°1 Variables Compartidas - 23 de marzo
-- [ ] TP n°2 Semáforos - 13 de abril
-- [ ] TP n°3 Monitores - 13 de abril
-- [ ] TP n°4 PMA y PMS - 11 de mayo
-- [ ] TP n°5 ADA - 8 de junio
 # Información General
 ## Links
 - [Ideas](https://ideas.info.unlp.edu.ar/concurrencia-y-paralelismo/Contents/Introduction/View/Show?idCourseTool=0af8207b-2770-11e6-8b11-aa9c84f4df6a)

@@ -1,15 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/bases-de-datos/","created":"2026-02-27T19:02:00.315-03:00","updated":"2026-03-17T17:26:17.412-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/bases-de-datos/","created":"2026-02-27T19:02:00.315-03:00","updated":"2026-03-18T14:36:30.635-03:00"}
 ---
 
 Diseñar y manipular bases de datos con seguridad e integridad.
 ---
 
-# Seguimiento
-### Estado
-- [ ] Pasar clases a obsidian
-### Clases sin Procesar
-![[Bases de Datos-Clases sin procesar-BASES.base]]
 # Información General
 ## Links
 - [Ideas](https://ideas.info.unlp.edu.ar/home)
@@ -20,56 +15,3 @@ Diseñar y manipular bases de datos con seguridad e integridad.
 ### Clases
 [[2-Areas/Facultad/Clases/Clase #1 Bases de Datos\|Clase #1 Bases de Datos]]
 
-### Ejercicios
-
-### Conceptos
-[[3-Resources/Zettelkasten/Crude/Modelo E-R\|Modelo E-R]]
-
-## Tema 2
-### Clases
-
-### Ejercicios
-
-### Conceptos
-
-## Tema 3
-### Clases
-
-### Ejercicios
-
-### Conceptos
-
-## Tema 4
-### Clases
-
-### Ejercicios
-
-### Conceptos
-
-## Tema 5
-### Clases
-
-### Ejercicios
-
-### Conceptos
-
-## Tema 6
-### Clases
-
-### Ejercicios
-
-### Conceptos
-
-## Tema 7
-### Clases
-
-### Ejercicios
-
-### Conceptos
-
-## Tema 8
-### Clases
-
-### Ejercicios
-
-### Conceptos
