@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-ejercicios-de-avr/","created":"2026-03-16T18:50:05.022-03:00","updated":"2026-03-17T17:27:42.685-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-ejercicios-de-avr/","created":"2026-03-16T18:50:05.022-03:00","updated":"2026-03-18T13:47:58.520-03:00"}
 ---
-
 
 # Ejercicios de Simulación
 ## Analice el programa ejemplo de la Fig.1. Explique qué hacen las sentencias de C:
@@ -194,6 +193,7 @@ En este caso, cuando los ms indicados ene la argumento pasan el límite de uint1
 
 ## Analice el resultado de la compilación: errores, advertencias, memoria de datos y de programa utilizada. 
 
+
 ## Analice las dependencias externas: examine y comprenda qué función cumple la línea:
 
 ```c
@@ -202,4 +202,7 @@ En este caso, cuando los ms indicados ene la argumento pasan el límite de uint1
 
 ## Simule el programa paso por paso con el simulador integrado de **Microchip Studio 7**. Examine las ventanas de registros del MCU, de ciclos de reloj consumidos y el comportamiento de los puertos I/O utilizados.
 
+
+
 ## Realice en **Proteus**, un circuito que incluya el MCU, ocho pulsadores y ocho LEDs para simular el programa desarrollado. Simule y verifique el comportamiento del mismo. Utilice el archivo `.elf` para depurar el programa paso a paso.
+

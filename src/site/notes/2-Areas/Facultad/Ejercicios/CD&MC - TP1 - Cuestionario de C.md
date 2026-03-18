@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-cuestionario-de-c/","created":"2026-03-16T18:47:12.409-03:00","updated":"2026-03-18T11:43:35.663-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/ejercicios/cd-and-mc-tp-1-cuestionario-de-c/","created":"2026-03-16T18:47:12.409-03:00","updated":"2026-03-18T13:45:11.500-03:00"}
 ---
 
 # Cuestionario
@@ -76,18 +76,65 @@
 </div></div>
 
 ## Repase el uso de las sentencias del pre-procesador de C, entre ellas: `#include`, `#define`, `#ifdef` y `typedef`.
+### Preprocesador de C
+El preprocesador actúa antes del compilador, reemplaza texto según directivas que empiezan con '#'
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3-resources/zettelkasten/resume/sentencias-del-pre-procesador-en-c/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+#### `#include`
+Reemplaza este texto con el contenido de otro archivo.
+- Incluir headers estándar
+- Incluir headers propios
+```c
+#include <stdio.h>   // headers del sistema
+#include "mylib.h"   // headers del proyecto
+```
+- `< >` : Busca en rutas del sistema
+- `" "` : Busca primero en el proyecto
 
+#### `#define`
+Define reemplazos de texto
+- Constantes simbólicas
+- Marcos simples
+- Macros con parámetros
+```c
+#define PI 3.14159
+#define MAX 100
+```
+Macro con parámetros:
+```c
+#define CUADRADO(x) ((x)*(x))
+```
+- **⚠ Cuidado con parentesis**
 
+#### `#undef`
+Elimina un macro previamente definido
 
+#### `#ifdef/#ifndef`
+Compilación condicional para incluir o excluir código si una macro existe o no
+- Evitar doble inclusión
+- Código dependiente de plataforma
+- Activar/desactivar features
 
-
-
-
-
-</div></div>
-
+Para debug:
+```c
+#ifdef DEBUG
+    printf("Debug activo\n");
+#endif
+```
+Para definir:
+```c
+#ifndef VERSION
+#define VERSION 1
+#endif
+```
+#### `#if/#elif/#else/#endif`
+Evaluación condicional con expresiones constantes
+```c
+#if VERSION >= 2
+    // código nuevo
+#else
+    // código viejo
+#endif
+```
 
 ## ¿Qué es una constante de carácter? ¿qué es una cadena de caracteres?
 

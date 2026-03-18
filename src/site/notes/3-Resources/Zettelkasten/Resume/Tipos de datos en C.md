@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/tipos-de-datos-en-c/","created":"2026-03-18T10:15:55.214-03:00","updated":"2026-03-18T11:42:31.812-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/tipos-de-datos-en-c/","created":"2026-03-18T10:15:55.214-03:00","updated":"2026-03-18T13:02:48.620-03:00"}
 ---
 
 El [[Format Specifier en C\|Format Specifier]] lo saco de [esta página](https://devdocs.io/c/io/fscanf), incluido con los [tipos de datos.](https://devdocs.io/c/language/arithmetic_types)

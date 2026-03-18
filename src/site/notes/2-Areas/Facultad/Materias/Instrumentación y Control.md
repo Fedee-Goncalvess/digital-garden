@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-18T01:55:46.044-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-18T13:31:43.888-03:00"}
 ---
 
 
@@ -20,7 +20,7 @@
 ### Trabajos Prácticos
 - [ ] [TP n° 1](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP1_v0.22.pdf) 
 	- [x] Ejercicios 1-4 para Lunes 9 de marzo
-	- [ ] Ejercicios 5-6 para Miércoles 11 de marzo
+	- [x] Ejercicios 5-6 para Miércoles 11 de marzo
 	- [ ] Ejercicios 7-11 para Lunes 16 de marzo
 	- [ ] Ejercicios 12-17 para Miércoles 18 de marzo
 - [ ] [TP n° 2](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP2_v0.22.pdf)
