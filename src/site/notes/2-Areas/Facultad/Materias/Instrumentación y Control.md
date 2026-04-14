@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-18T14:39:55.659-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-28T23:19:58.334-03:00"}
 ---
 
 # Información General
@@ -68,8 +68,39 @@ Dos módulos con parciales, recuperatorios, y un flotante.
 ### Ejercicios
 [[I&C-TP1.xopp]]
 ### Conceptos
+[[3-Resources/Zettelkasten/Resume/Notaciones Termocupla\|Notaciones Termocupla]]
 
 ## [4. Sensores Específicos: Deformación](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema04-Strain%20Gauges.pdf)
 ### Ejercicios
 ### Conceptos
 [[3-Resources/Zettelkasten/Resume/I&C - Sensores de Deformación\|Sensores de Deformación]]
+
+## [5a. Sensores Específicos: Iluminación](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema05-Otros%20Sensores.pdf)
+### Conceptos
+[[3-Resources/Zettelkasten/Resume/I&C - Sensores de Iluminación\|I&C - Sensores de Iluminación]]
+(falta explicar fotodiodo)
+## [5b. Sensores Específicos: Posición](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema05-Otros%20Sensores.pdf)
+### Conceptos
+[[3-Resources/Zettelkasten/Resume/I&C - Sensores de Posición\|I&C - Sensores de Posición]]
+(falta completar)
+
+## [5c. Sensores Específicos: Velocidad](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema05-Otros%20Sensores.pdf)
+
+## [5d. Sensores Específicos: Detectores](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema05-Otros%20Sensores.pdf)
+
+## [5e. Sensores Específicos: Otros](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema05-Otros%20Sensores.pdf)
+
+## [6. Sensores Específicos: Nivel](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema10-Medici%C3%B3n%20de%20Nivel.pdf)
+
+## [7. Sensores Específicos: Caudal](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema09-Medici%C3%B3n%20de%20Caudal.pdf)
+
+## [8. Acondicionamiento: Amp Ops Ideales](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema06-Acondicionamiento%20-%20Introducci%C3%B3n.pdf)
+### Conceptos
+### Ejercicios
+[[I&C-TP2.xopp]]
+
+## [9. Acondicionamiento:  Amp Ops Reales](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema07-Acondicionamiento%20AO%20reales.pdf)
+### Conceptos
+
+## [10. Acondicionamiento: CMRR y A.I.](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema08-Acondicionamiento%20-%20CMRR%20y%20AI.pdf)
+### Conceptos
