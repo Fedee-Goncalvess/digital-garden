@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-04-13T22:31:37.875-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-04-29T00:27:54.631-03:00"}
 ---
 
 Descripción
@@ -28,6 +28,9 @@ Descripción
 ## [Teoría 3 - Semáforos](/img/user/3-Resources/Archivos/PDFs/Facultad/Teora-3---Concurrencia-y-Paralelismo.pdf)
 
 ## [Teoría 4 - Monitores](/img/user/3-Resources/Archivos/PDFs/Facultad/Teora-4---Concurrencia-y-Paralelismo.pdf)
+
+### [[3-Resources/Zettelkasten/Resume/Concurrencia y Paralelismo - Explicación Monitores\|Explicación Monitores]]
+
 
 ## [Teoría 5 - Librerías para cómputo paralelo](/img/user/3-Resources/Archivos/PDFs/Facultad/Teora-5---Concurrencia-y-Paralelismo.pdf)
 
