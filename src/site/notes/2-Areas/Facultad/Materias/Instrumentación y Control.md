@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-05T23:16:11.354-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-05T23:45:46.718-03:00"}
 ---
 
 # Información General
@@ -16,27 +16,6 @@ Lunes y Miércoles de 10 a 11:30hs hasta el miércoles 18 de marzo
 
 **Teoría y Práctica**
 Lunes y Miércoles de 8:30 a 11:30hs
-
-## Cursada
-Dos módulos con parciales, recuperatorios, y un flotante.
-- Clases prácticas
-- Clases teóricas
-- Laboratorios obligatorios
-- Defensas orales
-- Trabajos prácticos de simulación
-### Trabajos Prácticos
-- [ ] [TP n° 1](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP1_v0.22.pdf) 
-	- [x] Ejercicios 1-4 para Lunes 9 de marzo
-	- [x] Ejercicios 5-6 para Miércoles 11 de marzo
-	- [ ] Ejercicios 7-11 para Lunes 16 de marzo
-	- [ ] Ejercicios 12-17 para Miércoles 18 de marzo
-- [ ] [TP n° 2](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP2_v0.22.pdf)
-- [ ] [TP n° 3](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP3_v0.22.pdf)
-- [ ] [TP n° 4](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP4_v0.22.pdf)
-- [ ] [TP n° 5](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP5_v0.23.pdf)
-- [ ] [TP n° 6](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP6_v0.22.pdf)
-- [ ] [TP n° 7](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP7_v0.22.pdf)
-- [ ] [TP n° 8](/img/user/3-Resources/Archivos/PDFs/Facultad/IyC%20TP8_v0.22.pdf)
 
 ---
 # Contenido
