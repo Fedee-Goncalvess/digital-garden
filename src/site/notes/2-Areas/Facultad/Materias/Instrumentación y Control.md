@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-05T14:31:22.331-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-05T23:16:11.354-03:00"}
 ---
 
 # Información General
@@ -73,6 +73,7 @@ Dos módulos con parciales, recuperatorios, y un flotante.
 
 ## [4. Sensores Específicos: Deformación](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema04-Strain%20Gauges.pdf)
 ### Ejercicios
+[[I&C - Puente de Wheatstone.xopp]]
 ### Conceptos
 [[3-Resources/Zettelkasten/Resume/I&C - Sensores de Deformación\|Sensores de Deformación]]
 
