@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-05T23:43:14.490-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-06T00:58:20.734-03:00"}
 ---
 
 # Dudas
@@ -44,4 +44,6 @@ Niveles/Rango medida sensor
 Resolución ADC:
 Rango entrada ADC/Niveles
 
-
+![image-52.png](/img/user/3-Resources/Archivos/image-52.png)
+La solución $V_0$ de este es aunque en el caso de abajo no existe $V_s$ es decir vale 0
+![IMG_20260506_005613406.jpg](/img/user/3-Resources/Archivos/IMG_20260506_005613406.jpg)
