@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-05T21:26:49.233-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-05T23:43:14.490-03:00"}
 ---
 
 # Dudas
@@ -20,6 +20,7 @@ Si tuvieramos que calcualr I+ e I- para corrientes de polarización como lo hace
 ![image-43.png](/img/user/3-Resources/Archivos/image-43.png)
 
 QUE OINDA COMO ES ESTO
+Necesitamos saber todas las configuraciones, ventajas y desventajas
 ![image-46.png](/img/user/3-Resources/Archivos/image-46.png)
 ![image-47.png](/img/user/3-Resources/Archivos/image-47.png)
 Que onda esto?
