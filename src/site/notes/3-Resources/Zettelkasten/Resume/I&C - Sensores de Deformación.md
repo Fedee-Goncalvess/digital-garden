@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/i-and-c-sensores-de-deformacion/","created":"2026-03-17T15:58:35.366-03:00","updated":"2026-03-17T19:02:15.785-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/i-and-c-sensores-de-deformacion/","created":"2026-03-17T15:58:35.366-03:00","updated":"2026-05-05T20:39:31.102-03:00"}
 ---
 
 # Funcionamiento
@@ -128,3 +128,11 @@ Para compensar el problema de temperatura, se hace uso de un conexionado particu
 ![image-18.png](/img/user/3-Resources/Archivos/image-18.png)
 Si utilizamos este conexionado vemos que podemos compensar la variación de temperatura:
 ![image-19.png\|512](/img/user/3-Resources/Archivos/image-19.png)
+Esto de arriba es para compensar temperatura. El tema es que si se pone cruzado queda desbalanceado. Si se pone en la misma altura pero distintas ramas, nose que pasaba. Y la última opción es hacer la de arriba que esa está bien.
+
+Después las conexiones son, para puente simple podes linealizar y te quedaría $\frac{Vc \times X}{4}$
+
+Lo único que cambia con la de medio puentes y puente completo es
+Medio puente $\frac{Vc \times X}{2}$
+Puente completo $Vc \times X$
+

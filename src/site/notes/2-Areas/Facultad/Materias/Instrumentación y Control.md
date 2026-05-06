@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-03-28T23:19:58.334-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-05T14:31:22.331-03:00"}
 ---
 
 # Información General
@@ -40,6 +40,7 @@ Dos módulos con parciales, recuperatorios, y un flotante.
 
 ---
 # Contenido
+[[3-Resources/Zettelkasten/Resume/Repaso Instrumentación y Control Módulo 1\|Repaso Instrumentación y Control Módulo 1]]
 
 ## [1. Presentación e Introducción](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema01-Clase%20Inaugural%20e%20Introducci%C3%B3n.pdf) 
 ### Clases

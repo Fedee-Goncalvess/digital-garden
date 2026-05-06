@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-04T23:36:05.633-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-05T21:26:49.233-03:00"}
 ---
 
 # Dudas
@@ -19,18 +19,28 @@ En este caso, nos piden segun la datasheet la maxima tensión que podría tener 
 Si tuvieramos que calcualr I+ e I- para corrientes de polarización como lo hacemos si tenemos una datasheet de este estilo?
 ![image-43.png](/img/user/3-Resources/Archivos/image-43.png)
 
+QUE OINDA COMO ES ESTO
+![image-46.png](/img/user/3-Resources/Archivos/image-46.png)
+![image-47.png](/img/user/3-Resources/Archivos/image-47.png)
+Que onda esto?
+![image-48.png](/img/user/3-Resources/Archivos/image-48.png)
 
+Resolución de ADC siempre debe ser mayor al del sensor (es decir, el "paso" mínimo distinguible del adc debe ser más chico que el del sensor)?
 
-# Sensor
-- Maximizar sensibilidad del sistema de medida
-- Mejorar linealidad
-# Amp Op
-- Rango Dinámico del sistema de medida
-![image-38.png](/img/user/3-Resources/Archivos/image-38.png)
-Se calcula para cada etapa con esta fórmula cada rango dinamico. Luego se analiza 
-- Mejorar resolución de la medida modificando solo una etapa
-Dependiendo cual de las etapas tiene el rango dinámico más pequeño (es el cuello de botella) se mejora esa etapa.
-# Acondicionamiento
-- 
-# PLC
+3)d) Es eso de abajo? 
+El enano dice que el I_bias es corriente de offset, y en enunciado dicen que es corriente de polarización. O al menos lo que si se asegura el enano es que es la corriente de polarización en **modo comun** nose que quiere decir. 
+
+Cuando dicen I_bias decimos que es el modo común de las corrientes de polarización. 
+![image-50.png](/img/user/3-Resources/Archivos/image-50.png)
+![image-49.png](/img/user/3-Resources/Archivos/image-49.png)
+
+QUE ONDA ESTO????????
+![image-51.png](/img/user/3-Resources/Archivos/image-51.png)
+
+Factor de escala: 
+Niveles/Rango medida sensor
+
+Resolución ADC:
+Rango entrada ADC/Niveles
+
 
