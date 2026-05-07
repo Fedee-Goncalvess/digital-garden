@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-04-29T00:27:54.631-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/concurrencia-y-paralelismo/","created":"2026-02-27T19:44:25.263-03:00","updated":"2026-05-07T13:32:02.241-03:00"}
 ---
 
 Descripción
@@ -17,6 +17,7 @@ Descripción
 - *Examen teórico optativo de Promoción* - 3 de agosto
  ---
 # Contenido
+[[3-Resources/Zettelkasten/Resume/Repaso Módulo 1 - Concurrencia y Paralelismo\|Repaso Módulo 1 - Concurrencia y Paralelismo]]
 ## [Teoría 1 - Introducción](/img/user/3-Resources/Archivos/PDFs/Facultad/Teora-1---Concurrencia-y-Paralelismo.pdf) 
 ### Clases
 ### Ejercicios
