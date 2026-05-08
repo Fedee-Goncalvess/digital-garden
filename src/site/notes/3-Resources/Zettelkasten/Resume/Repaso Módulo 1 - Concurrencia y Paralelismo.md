@@ -1,17 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-modulo-1-concurrencia-y-paralelismo/","created":"2026-05-06T17:11:36.877-03:00","updated":"2026-05-07T15:15:39.473-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-modulo-1-concurrencia-y-paralelismo/","created":"2026-05-06T17:11:36.877-03:00","updated":"2026-05-07T18:12:53.652-03:00"}
 ---
 
 # Dudas
 - *Resolver con SENTENCIAS AWAIT ($\langle \rangle$ y/o $\langle \text{await B; S} \rangle$) el siguiente problema. Hay un médico que debe atender a 15 pacientes (de a uno a la vez) de acuerdo con el turno de cada uno de ellos (cada paciente ya conoce su turno). Debe asegurarse de que nunca haya dos pacientes al mismo tiempo en el consultorio. Notas: todos los procesos deben terminar.*
 	Hacerlo sin médico es facil es que los procesos esperen el anterior. Pero se debería modelar el médico? 
 	El turno es el ID o numero aleatorio?
+	
+Si sabes las iteraciones que hhay que hacer, usar for. Si es infinito o indefinido es un while(true) sino te descansn
+
 
 - Se pueden poner los id de 1..N y los arreglos arrancan con índice 1 o deben arrancar con índice 0. Como lo aclaro? Ejemplo `turno[1:n] = ([n] 0);`
+	NI BOLA
+
 - Importa si uso muchas variables o no simplifico el uso de variables?
+
+
 - Puedo hacer orden de llegada en await con [[3-Resources/Zettelkasten/Resume/Repaso Módulo 1 - Concurrencia y Paralelismo#N procesos 1 Recurso (Orden de llegada + Prioridad)\|Orden con prioridad]] en vez de con [[3-Resources/Zettelkasten/Resume/Repaso Módulo 1 - Concurrencia y Paralelismo#Ticket\|Ticket]]?
+	SIN TICLET
+
 - En monitores, si tengo lógicas distintas en un mismo monitor, podría separarlos en varios monitores? Debería o es indistinto?
+- SI
+
+
 - Por qué utiliza **esperar** en las condiciones de estos dos códigos? En el de prioridad no podría simplemente usar *empty(c)*? [[3-Resources/Zettelkasten/Resume/Repaso Módulo 1 - Concurrencia y Paralelismo#N Procesos 1 Recurso (Orden de llegada y monitor Admin)\|N Proceso 1 Recurso Orden de llegada y Admin]], [[3-Resources/Zettelkasten/Resume/Repaso Módulo 1 - Concurrencia y Paralelismo#N Procesos 1 Recurso (Orden de prioridad y monitor Admin)\| N proceso 1 Recurso Orden de prioridad]]
+Es lo mismo (solo un monitor)
 
 - Hay diferencia en hacer uno u el otro?
 ```c
