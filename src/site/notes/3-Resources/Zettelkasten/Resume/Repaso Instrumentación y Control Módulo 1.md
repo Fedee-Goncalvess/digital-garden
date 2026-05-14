@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-06T00:58:20.734-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-instrumentacion-y-control-modulo-1/","created":"2026-05-04T18:09:30.476-03:00","updated":"2026-05-10T23:56:58.522-03:00"}
 ---
 
 # Dudas
@@ -47,3 +47,54 @@ Rango entrada ADC/Niveles
 ![image-52.png](/img/user/3-Resources/Archivos/image-52.png)
 La solución $V_0$ de este es aunque en el caso de abajo no existe $V_s$ es decir vale 0
 ![IMG_20260506_005613406.jpg](/img/user/3-Resources/Archivos/IMG_20260506_005613406.jpg)
+
+Por qué en este caso hacen R3=R0? no podría ser R2=Rt? es lo mismo?
+Y por qué R=rR0?  Para que es la razón? Simplemente una forma de medir sensibilidad o algo así?
+![image-53.png](/img/user/3-Resources/Archivos/image-53.png)
+Y tiene sentido decir que para aumentar linealidad o sensibilidad hay que aumentar r? Es decir aumentar las resistencias R o tener un R0 menor?
+![image-54.png](/img/user/3-Resources/Archivos/image-54.png)
+Todo esto de arriba era para este ejercicio de parcial
+![image-55.png](/img/user/3-Resources/Archivos/image-55.png)
+Utilizar un Pt1000? Se utiliza un Pt1000 cuando los cables para el sensor son muy largos (por ejemplo si el sensor se debe colocar lejos), esto produce
+![image-65.png](/img/user/3-Resources/Archivos/image-65.png)
+JUSTIFICACION DE USAR PT1000 PARA CABLES LARGOS
+Para el siguiente ejercicio
+![image-56.png](/img/user/3-Resources/Archivos/image-56.png)
+planteo Rango Dinamico del sensor de proximidad con 20log(20cm/1mm)?
+![image-57.png](/img/user/3-Resources/Archivos/image-57.png)
+
+Luego la etapa de amplificación analógica tiene
+RD = 20 log (12V/4uV)
+
+y por últmo ADC con Vref 5v y 8bits
+Para el ADC se necesita saber cual es el rango de entrada (Ejemplo de 0°C a 100°C) y saber cuanta resolución se necesita (1°C) por lo que tenemos la cantidad de valores posibles. **Se debe agregar el 0!** $\frac{RE}{Resolución}+1\leq 2{^N}$
+Luego para saber el voltaje necesario para cada bit es decir la diferencia entre un bit y otro es $LSB=\mathrm{Re}solución_{ADC}=\frac{Vref}{2{^N}}$
+
+---
+Ejercicio con Sistemas: Sensor->AmpOp-> ADC
+
+1. Conseguir Rango Dinámico de cada etapa (logaritmo o sin logaritmo)
+	1. $\frac{Máx-Min}{\mathrm{Re}solución}$
+2. Evaluar cual es el cuello de botella comparando las etapas
+3. Proponer mejorar cada etapa
+	1. Etapa de sensor: 
+	2. Etapa de AmpOp: 
+	3. Etapa de ADC: Aumentar cantidad de bits
+
+
+3 hilos 4 hilos etc:
+![image-58.png](/img/user/3-Resources/Archivos/image-58.png)
+
+<iframe src="/img/user/3-Resources/Archivos/PDFs/Facultad/Eye-AmpOps.pdf" width="100%" height="900px" title="Eye-AmpOps.pdf" style="border:1px solid #ccc;"></iframe>
+
+**Regulación y Seguimiento**
+![image-59.png](/img/user/3-Resources/Archivos/image-59.png)
+
+![image-60.png](/img/user/3-Resources/Archivos/image-60.png)
+![image-61.png](/img/user/3-Resources/Archivos/image-61.png)![image-62.png](/img/user/3-Resources/Archivos/image-62.png)
+![image-63.png](/img/user/3-Resources/Archivos/image-63.png)
+
+![image-64.png](/img/user/3-Resources/Archivos/image-64.png)
+
+
+![image-66.png](/img/user/3-Resources/Archivos/image-66.png)

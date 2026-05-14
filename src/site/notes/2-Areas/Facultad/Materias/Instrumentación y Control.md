@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-05T23:45:46.718-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/instrumentacion-y-control/","created":"2026-03-05T00:38:05.354-03:00","updated":"2026-05-10T17:04:51.549-03:00"}
 ---
 
 # Información General
@@ -82,6 +82,8 @@ Lunes y Miércoles de 8:30 a 11:30hs
 
 ## [9. Acondicionamiento:  Amp Ops Reales](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema07-Acondicionamiento%20AO%20reales.pdf)
 ### Conceptos
+## Ejercicios
+[[I&C-TP3.xopp]]
 
 ## [10. Acondicionamiento: CMRR y A.I.](/img/user/3-Resources/Archivos/PDFs/Facultad/I&CI-Tema08-Acondicionamiento%20-%20CMRR%20y%20AI.pdf)
 ### Conceptos
