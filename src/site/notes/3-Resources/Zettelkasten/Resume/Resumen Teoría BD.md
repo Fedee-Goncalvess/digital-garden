@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/resumen-teoria-bd/","created":"2026-06-05T12:22:22.608-03:00","updated":"2026-06-06T16:21:33.675-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/resumen-teoria-bd/","created":"2026-06-05T12:22:22.608-03:00","updated":"2026-06-07T22:52:34.033-03:00"}
 ---
 
+# Parciales
+## 
 # Clase 1
 SGBD 
 Sistema de software que permite crear mantener y utilizar BD
