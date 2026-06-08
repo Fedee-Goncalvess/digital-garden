@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/bases-de-datos/","created":"2026-02-27T19:02:00.315-03:00","updated":"2026-05-13T21:04:16.689-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/bases-de-datos/","created":"2026-02-27T19:02:00.315-03:00","updated":"2026-06-05T12:22:10.632-03:00"}
 ---
 
 Diseñar y manipular bases de datos con seguridad e integridad.
@@ -11,6 +11,7 @@ Diseñar y manipular bases de datos con seguridad e integridad.
 - [Tropabase](https://drive.google.com/drive/u/0/folders/1v7Zz7m7xpFzjwAUQxmLUjBB1zqNH3JiU)
 ---
 # Contenidos
+[[3-Resources/Zettelkasten/Resume/Resumen Teoría BD\|Resumen Teoría BD]]
 [[3-Resources/Zettelkasten/Resume/Resumen Parcial 1 - BD\|Resumen Parcial 1 - BD]]
 ## [Modelo Conceptual](/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase1.pdf)
 ### Clases

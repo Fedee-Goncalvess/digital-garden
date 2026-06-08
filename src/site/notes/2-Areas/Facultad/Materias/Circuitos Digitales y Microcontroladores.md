@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-05-05T23:45:21.970-03:00"}
+{"dg-publish":true,"permalink":"/2-areas/facultad/materias/circuitos-digitales-y-microcontroladores/","created":"2026-02-27T18:05:44.204-03:00","updated":"2026-05-16T17:25:51.468-03:00"}
 ---
 
 Prof. José Juarez 
@@ -14,6 +14,7 @@ Estudio, diseño e implementación de sistemas embebidos con microcontroladores.
 - [Reglamento](/img/user/3-Resources/Archivos/PDFs/Facultad/ReglamentoCDyMC2026.pdf)
 
 ---
+[[3-Resources/Zettelkasten/Resume/CD&MC-TP2-Grupo12-Apuntes\|CD&MC-TP2-Grupo12-Apuntes]]
 # Contenidos
 [[clase00.pdf\|Presentación]]
 

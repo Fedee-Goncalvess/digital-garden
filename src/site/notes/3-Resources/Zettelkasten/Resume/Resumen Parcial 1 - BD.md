@@ -1,6 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/resumen-parcial-1-bd/","created":"2026-05-13T21:04:23.116-03:00","updated":"2026-05-13T23:04:26.861-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/resumen-parcial-1-bd/","created":"2026-05-13T21:04:23.116-03:00","updated":"2026-06-03T23:55:48.016-03:00"}
 ---
+
+# Modelo Conceptual 
+- Entidad débil debe tener relación (1,1)
+
+***Total vs Parcial (cobertura)***
+Esto responde a la pregunta:
+> **¿Toda instancia de la entidad general pertenece a alguna subentidad?**
+
+***Exclusiva vs Superpuesta (disyunción)***
+Esto responde a otra pregunta distinta:
+> **¿Una instancia puede pertenecer a más de una subentidad al mismo tiempo?**
 
 #  Modelo Lógico → Físico
 
