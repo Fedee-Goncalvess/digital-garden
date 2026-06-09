@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/resumen-teoria-bd/","created":"2026-06-05T12:22:22.608-03:00","updated":"2026-06-07T22:52:34.033-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/resumen-teoria-bd/","created":"2026-06-05T12:22:22.608-03:00","updated":"2026-06-08T18:53:23.924-03:00"}
 ---
 
-# Parciales
-## 
 # Clase 1
+[BD-Clase1.pdf](/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase1.pdf)
 SGBD 
 Sistema de software que permite crear mantener y utilizar BD
 Procesos:
@@ -76,6 +75,7 @@ Mecanismos de abstracción
 No entendimos nada lo de cardinalidad wtf?
 
 # Clase 2
+[BD-Clase2.pdf](/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase2.pdf)
 
 ![image-86.png](/img/user/3-Resources/Archivos/image-86.png)
 ![image-87.png](/img/user/3-Resources/Archivos/image-87.png)
@@ -94,6 +94,7 @@ Luego Primitivas Descendentes, refinas el diseño, y terminas agregando pero par
 
 
 # Clase 3
+[BD-Clase3.pdf](/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase3.pdf)
 ![image-92.png](/img/user/3-Resources/Archivos/image-92.png)
 #consulta  Criterios de rendimiento info de carga wtf
 
@@ -105,10 +106,11 @@ Luego Primitivas Descendentes, refinas el diseño, y terminas agregando pero par
 
 # Clase 4
 [BD-Clase4.pdf](/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase4.pdf)
-
+{t/}
 
 ![image-94.png](/img/user/3-Resources/Archivos/image-94.png)
 # Clase 5
+[BD-Clase5.pdf](/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase5.pdf)
 <iframe src="/img/user/3-Resources/Archivos/PDFs/Facultad/BD-Clase5.pdf" width="100%" height="900px" title="BD-Clase5.pdf" style="border:1px solid #ccc;"></iframe>
 #consulta MEO
 

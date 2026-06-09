@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-modulo-2-concurrencia-y-paralelismo/","created":"2026-06-08T01:12:58.846-03:00","updated":"2026-06-08T01:57:11.277-03:00"}
+{"dg-publish":true,"permalink":"/3-resources/zettelkasten/resume/repaso-modulo-2-concurrencia-y-paralelismo/","created":"2026-06-08T01:12:58.846-03:00","updated":"2026-06-09T03:06:01.061-03:00"}
 ---
 
 # PMA
@@ -73,3 +73,11 @@ Coordinador{
 }
 ```
 
+# PMS
+
+- El comodín canal `Proceso[*]` es no determinístico. Es decir, entre muchos procesos va a elegir al azar. No será en orden
+- Para hacer **en orden** y **maximizando concurrencia** evitando bloqueo, se debe utilizar un ***buffer***
+- Cuando se hace un recibo `Proceso?` sin condición booleana, si no se sincroniza el mensaje *(todavía nadie mandó ningún mensaje)* se queda **bloqueado**. Por lo que si el proceso no debe estar bloqueado se debe utilizar el *IF FI* o el *DO OD*
+- Para recepción se puede utilizar el comodín `Proceso[*]?` pero ***NO SE PUEDE USAR PARA ENVÍO***. Si se quisiera enviar a todos los procesos se debería hacer un *for iterando con una variable i*
+- DUDA Esta mal escuchar de todos con el comodín si solo hay un proceso que puede enviar mensaje?
+	- Seguramente tengamos que guardarnos en un auxiliar su id y utilizarlo correctamente.
